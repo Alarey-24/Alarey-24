@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alarey-24
-- 👀 I’m interested in AI/Game development
+- 👀 I’m interested in Al/Game development
 - 🌱 I’m currently learning Python
 
 <!---
